@@ -89,3 +89,58 @@ button{
     text-align:center;
     border-radius: 25px;
 }
+
+.menu{
+    display:inline-block;
+    flex-wrap:wrap;
+    
+}
+
+.topleft{
+border:3px solid black;
+padding:10px;
+margin :20px;
+float:left;
+width:25%;
+flex:row;
+text-align:center;
+border-radius: 25px;
+
+}
+
+.topcenter{
+border:3px solid black;
+padding:10px;
+margin:20px;
+float:left;
+width:25%;
+flex:row;
+text-align:center;
+border-radius: 25px;
+
+}
+
+.topright{
+border:3px solid black;
+padding:10px;
+margin:20px;
+float:left;
+width:25%;
+flex:row;
+text-align:center;
+border-radius: 25px;
+
+}
+
+.amount{
+ display:flex;
+
+}
+
+.cart{
+ float:right;
+ border:1 px solid rgb(239, 253, 255);
+ background-color:rgb(239, 253, 255);
+ border-radius: 15px;
+ text-align: right;
+}
