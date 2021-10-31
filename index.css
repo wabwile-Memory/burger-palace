@@ -30,3 +30,62 @@
     padding:10px;
     float:left;
 }
+button{
+    background-color: rgb(255, 187, 0);
+    margin-top:90px;
+}
+#secondimage{
+    float:right;
+    margin-top:10px;
+    margin-right:20px;
+ 
+}
+
+.rain{
+    margin-top:80px;
+    
+}
+
+.deliveries{
+    display:flex;
+    float:left;
+    background-color:rgb(239, 253, 255);
+    height:100%;
+    
+}
+.qualityburgers{
+    border:1.5px solid rgb(114, 69, 69);
+    padding:10px;
+    margin:20px;
+    float:left;
+    width:30%;
+    flex:row;
+    text-align:center;
+    border-radius: 25px;
+   
+}
+
+
+.fastdelivery{
+    border:1.5px solid rgb(114, 69, 69);
+    padding:10px;
+    margin:20px;
+    float:left;
+    width:40%;
+    height:40%;
+    flex:row;
+    text-align:center;
+    border-radius: 25px;
+    
+}
+
+.deliciousmeals{
+    border:1.5px solid rgb(114, 69, 69);
+    padding:10px;
+    margin:20px;
+    float:left;
+    width:30%;
+    flex:row;
+    text-align:center;
+    border-radius: 25px;
+}
