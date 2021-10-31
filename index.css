@@ -144,3 +144,36 @@ border-radius: 25px;
  border-radius: 15px;
  text-align: right;
 }
+
+.bottomleft{
+    border:3px solid black;
+    padding:10px;
+    margin:20px;
+    float:left;
+    width:25%;
+    flex:row;
+    text-align:center;
+    border-radius: 25px;
+ }
+
+ .bottomcenter{
+    border:3px solid black;
+    padding:10px;
+    margin:20px;
+    float:left;
+    width:25%;
+    flex:row;
+    text-align:center;
+    border-radius: 25px;
+ }
+
+ .bottomright{
+    border:3px solid black;
+    padding:10px;
+    margin:20px;
+    float:left;
+    width:25%;
+    flex:row;
+    text-align:center;
+    border-radius: 25px;
+ }
