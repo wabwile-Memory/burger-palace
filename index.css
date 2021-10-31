@@ -1,0 +1,17 @@
+.container{
+    max-width:1000px;
+    margin:auto;
+    font-family:"poppins";
+}
+.navbar{
+    
+    float:right;
+    text-decoration:none;
+    display:flex;
+    font-size:x-large;
+    color:black;
+    padding:40px;
+    margin-right:20px;
+    justify-content:space-between;
+}
+
